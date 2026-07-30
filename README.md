@@ -44,7 +44,9 @@ Desarrollador **full stack** en formación, con base en administración de siste
 
 ## 📊 Mis estadísticas
 
-![Racha de GitHub](https://streak-stats.demolab.com/?user=Camilx03&theme=dark&locale=es)
+![Stats de GitHub](https://github-readme-stats.vercel.app/api?username=Camilx03&show_icons=true&theme=dark&locale=es)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Camilx03&layout=compact&theme=dark&locale=es)
 
 ---
 
