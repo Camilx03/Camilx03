@@ -5,7 +5,7 @@ Desarrollador **full stack** en formación, con base en administración de siste
 ## 🎓 Formación
 
 - 💻 **Bootcamp de Desarrollo Web Full Stack** — HACK A BOSS
-- 🔐 **Curso de Especialización en Ciberseguridad** — FP (España)
+- 🔐 **Curso de Especialización en Ciberseguridad** — FP
 - 📱 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
 - 🖥️ **Grado Medio en Sistemas Microinformáticos y Redes (SMR)**
 
