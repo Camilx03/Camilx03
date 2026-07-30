@@ -20,7 +20,7 @@ Desarrollador **full stack** en formación, con base en administración de siste
 - 🌱 Actualmente profundizando en **JavaScript, React y desarrollo backend**
 - 🛠️ Me encontrarás montando proyectos como un gestor para talleres mecánicos con backend en Java y frontend en JavaScript
 - 🎯 Busco mi primera oportunidad en IT: mi perfil combina desarrollo (web y multiplataforma), sistemas y ciberseguridad
-- 📫 Contacto: **camilojrjbeas@gmail.com**
+- 📫 Contacto: [LinkedIn](https://www.linkedin.com/in/TU-USUARIO/) · camilojrjbeas@gmail.com
 
 ## 🧰 Tecnologías
 
